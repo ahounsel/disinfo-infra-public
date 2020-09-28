@@ -38,7 +38,7 @@ Source code and training data for the academic paper available [here.](https://w
 ```disinfo_net_data_fetch.py``` - continually fetches new domains and raw data for those domains, implemented domain pipes include reddit, twitter, certstream, and domaintools.
 
 ```disinfo_net_train_classifier.py``` - script that trains the classifier from
-designated trainin
+designated training data.
 
 ```disinfo_net_classify.py``` - script to classify raw data fetched by ```disinfo_data_fetch.py```. It extracts features, classifies websites, and inserts them into a database table named by the user. It can be run in "live" mode where it constantly classifies new domains as they are fetched from ```disinfo_data_fetch.py``` or it can classify an entire database of candidate domains at once.
 
