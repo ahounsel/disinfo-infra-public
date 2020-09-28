@@ -1,0 +1,768 @@
+host,source,url,available,labeller,archive,snapshot_date,target
+christiantimes.com,CBS,https://www.cbsnews.com/pictures/dont-get-fooled-by-these-fake-news-sites/,TRUE,Austin,None,None,disinformation
+thedcgazette.com,CBS,https://www.cbsnews.com/pictures/dont-get-fooled-by-these-fake-news-sites/,TRUE,Austin,None,None,disinformation
+americanjournalreview.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,TRUE,Austin,None,None,disinformation
+en-volve.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,TRUE,Austin,None,None,disinformation
+londonwebnews.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,TRUE,Austin,None,None,disinformation
+politicops.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Austin,https://web.archive.org/web/20161205201108/http://politicops.com/,20161205,disinformation
+stuppid.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,TRUE,Austin,None,None,disinformation
+yournewswire.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,TRUE,Austin,None,None,disinformation
+beforeitsnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+bighairynews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+cityworldnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+civictribune.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+clashdaily.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+coed.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+conservativebyte.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+conservativedailypost.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+conservativefighters.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+dailybuzzlive.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+dailyheadlines.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+dailyheadlines.net,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+dailynewsposts.info,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Austin,https://web.archive.org/web/20161028041004/http://dailynewsposts.info/,20161028,disinformation
+dailysurge.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+dcgazette.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+donaldtrumpnews.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+downtrend.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+empireherald.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+empirenews.net,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+enduringvision.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+fakingnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+givemeliberty01.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+immediatesafety.org,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+infostormer.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+itaglive.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+libertyblitzkrieg.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+madworldnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+mediamass.net,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+myfreshnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Austin,https://web.archive.org/web/20160618230812/http://www.myfreshnews.com/,20160618,disinformation
+news4ktla.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+newsexaminer.net,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+newsfrompolitics.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+newslo.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+newswithviews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+now8news.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+onepoliticalplaza.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+pakalertpress.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+politicalo.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+politicalsitenews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+politicono.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+realnewsrightnow.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+rickwells.us,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+rogue-nation3.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+smag31.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+stormcloudsgathering.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+subjectpolitics.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+success-street.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+teaparty.org,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+thebigriddle.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+thecommonsenseshow.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+themoralofthestory.us,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+theracketreport.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+therightscoop.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+thetruthdivision.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+thetruthseeker.co.uk,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+threepercenternation.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+undergroundworldnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+usasupreme.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+vigilantcitizen.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+viralliberty.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+weeklyworldnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+yesimright.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,TRUE,Austin,None,None,disinformation
+actionnews3.com,Snopes,https://www.snopes.com/news/2016/01/14/fake-news-sites/,TRUE,Austin,None,None,disinformation
+100percentfedup.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+2ndvote.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+activistpost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+actualidadpanamericana.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+adobochronicles.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+afa.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+ahtribune.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+americasfreedomfighters.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+angrypatriotmovement.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+anonews.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+anonhq.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+attitude.co.uk,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+awarenessact.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+babylonbee.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+barenakedislam.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+bb4sp.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+bipartisanreport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+burrardstreetjournal.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+collective-evolution.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+concealednation.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+conservativefiringline.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+conservativepost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+crooksandliars.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+dailyoccupation.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+dailypost.ng,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+dailypresser.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+dailysnark.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+daily-sun.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+davidwolfe.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+dcclothesline.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+democraticmoms.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+democraticunderground.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+dennismichaellynch.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+disclose.tv,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+eaglerising.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+endoftheamericandream.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+endtimeheadlines.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+eutimes.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+express.co.uk,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+famousviralstories.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+fellowshipoftheminds.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+firstpost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+freeinfomedia.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+freerepublic.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+friendsofsyria.wordpress.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+frontpagemag.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+halfwaypost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+healthnutnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+higherperspectives.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+huzlers.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+ijr.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+ilovemyfreedom.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+independentminute.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+indiatimes.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+inquisitr.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+iotwreport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+ipatriot.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+jewsnews.co.il,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+joeforamerica.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+medicalkidnap.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+nation.com.pk,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+naturalnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+neonnettle.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+newsbiscuit.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+newsjustforyou1.blogspot.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+newsrescue.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+newzmagazine.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+nowtheendbegins.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+onlysimchas.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+palmerreport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+politicass.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+postcard.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+powderedwigsociety.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+puppetstringnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+rearfront.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+redstatewatcher.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+rightwingnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+stateofthenation2012.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+stillnessinthestorm.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+theconservativetreehouse.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+theeventchronicle.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+thefederalistpapers.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+thehornnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+thelastamericanvagabond.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+themindunleashed.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+thenationalmarijuananews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+thenationalpatriot.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+thepeoplescube.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+thepoliticalinsider.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+therooster.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+tmn.today,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+tribunist.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+trueactivist.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+trunews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+truthuncensored.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+uschronicle.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+wearechange.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+whatsupic.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+whydontyoutrythis.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+wnd.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+worldnewsdailyreport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+worldtruth.tv,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+zerohedge.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Austin,None,None,disinformation
+redstateobserver.com,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+arabnews.com,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+usdaily-news.com,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+lifesitenews.com,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+americanlookout.com/,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+educateinspirechange.org,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+bigleaguepolitics.com/,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+theblacksphere.net/,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+dctribune.org,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+alphanewsmn.com,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+thelibertyeagle.com,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+rightwingtribune.com,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+libertybugle.com,NewsGuard,https://newsguardtech.com,TRUE,Ben,None,None,disinformation
+24newsflash.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,http://web.archive.org/web/20161017072119/http://24newsflash.com:80/,20161017,disinformation
+16wmpo.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,http://web.archive.org/web/20161221200917/http://16wmpo.com:80/,20161221,disinformation
+abcnews.com.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,http://web.archive.org/web/20171001013443/http://abcnews.com.co/,20171001,disinformation
+24wpn.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,http://web.archive.org/web/20171027233146/http://24wpn.com:80/,20171027,disinformation
+70news.wordpress.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,http://web.archive.org/web/20180301013438/https://70news.wordpress.com/,20180301,disinformation
+drudgereport.com.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20150310200200/http://drudgereport.com.co/,20150310,disinformation
+newswatch33.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20150622212217/http://newswatch33.com/,20150622,disinformation
+americanoverlook.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20150625022729/http://americanoverlook.com/,20150625,disinformation
+washingtonpost.com.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20150711024535/http://washingtonpost.com.co/,20150711,disinformation
+usatoday.com.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20150711025144/http://usatoday.com.co/,20150711,disinformation
+damnleaks.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20150926224028/http://www.damnleaks.com/,20150926,disinformation
+usadailypolitics.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20151201004103/http://usadailypolitics.com/,20151201,disinformation
+usanewsflash.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160108215745/http://www.usanewsflash.com/,20160108,disinformation
+thelastlineofdefense.org,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20160211071511/http://thelastlineofdefense.org/,20160211,disinformation
+eutopia.buzz,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160221022349/http://eutopia.buzz/,20160221,disinformation
+healthyworldhouse.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160324145141/http://healthyworldhouse.com/,20160324,disinformation
+theamericanindependent.wordpress.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160507221043/https://theamericanindependent.wordpress.com/,20160507,disinformation
+newsbuzzdaily.com,Snopes,https://www.snopes.com/news/2016/01/14/fake-news-sites/,FALSE,Ben,https://web.archive.org/web/20160509220828/http://newsbuzzdaily.com/,20160509,disinformation
+usanewsinsider.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160509230312/http://usanewsinsider.com/,20160509,disinformation
+usamagazinestudio.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160608054040/http://usamagazinestudio.com:80/,20160608,disinformation
+usadailyinfo.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160712193512/http://usadailyinfo.com/,20160712,disinformation
+abcnewsgo.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160813072855/http://abcnewsgo.co/,20160813,disinformation
+trueamericans.me,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160817005312/http://trueamericans.me/,20160817,disinformation
+nephef.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160907191126/http://www.nephef.com/,20160907,disinformation
+channel-7-news.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160928035248/http://channel-7-news.com:80/,20160928,disinformation
+thelastgreatstand.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160929155547/http://thelastgreatstand.com/,20160929,disinformation
+mrconservative.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160930181356/http://mrconservative.com,20160930,disinformation
+iwanttoexplore.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161004062832/http://iwanttoexplore.com/,20161004,disinformation
+msnbc.website,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161009105815/https://msnbc.website/,20161009,disinformation
+yourfunpage.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161009193526/http://yourfunpage.com/,20161009,disinformation
+trumpvision365.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161013153642/http://www.trumpvision365.com/,20161013,disinformation
+healthycareandbeauty.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161021183431/http://healthycareandbeauty.com/,20161021,disinformation
+mpidailymagazine.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161023064316/http://mpidailymagazine.com/,20161023,disinformation
+the-insider.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161101040510/http://the-insider.co/,20161101,disinformation
+worldrumor.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161102175310/http://worldrumor.com/,20161102,disinformation
+usa2016elections.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161107194712/http://usa2016elections.com/,20161107,disinformation
+usatodaynews.me,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161113092815/http://usatodaynews.me/,20161113,disinformation
+worldstoriestoday.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161118114749/http://worldstoriestoday.com/,20161118,disinformation
+thatviralfeed.net,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161118224408/http://www.thatviralfeed.net/,20161118,disinformation
+usainfobox.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161119125451/http://usainfobox.com/,20161119,disinformation
+newpoliticstoday.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161126045937/http://newpoliticstoday.com/,20161126,disinformation
+usaonlinepolitics.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161127222201/http://usaonlinepolitics.com/,20161127,disinformation
+enhlive.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161129093417/http://www.enhlive.com:80/,20161129,disinformation
+departedmedia.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161201154043/http://departedmedia.com:80/,20161201,disinformation
+unitedmediapublishing.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161214172521/http://unitedmediapublishing.com/,20161214,disinformation
+dailyusaupdate.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161218072209/http://dailyusaupdate.com/,20161218,disinformation
+dailyusaupdate.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161218072209/http://dailyusaupdate.com/,20161218,disinformation
+usaphase.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161223030519/http://usaphase.com/,20161223,disinformation
+usadailypost.us,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20161226071844/http://usadailypost.us/,20161226,disinformation
+worldnewsreport.com,CBS,https://www.cbsnews.com/pictures/dont-get-fooled-by-these-fake-news-sites/,FALSE,Ben,https://web.archive.org/web/20170101013352/http://abcnews.com.co/,20170101,disinformation
+anonjekloy.tk,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170108170401/http://www.anonjekloy.tk:80/,20170108,disinformation
+voxtribune.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170113135456/http://voxtribune.com/,20170113,disinformation
+worldpoliticsnow.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170119042051/http://worldpoliticsnow.com/,20170119,disinformation
+worldpoliticsnow.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170119042051/http://worldpoliticsnow.com/,20170119,disinformation
+usadosenews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170124044147/http://usadosenews.com/,20170124,disinformation
+rilenews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170131013401/http://rilenews.com/,20170131,disinformation
+dailyinfobox.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170203093935/http://dailyinfobox.com/,20170203,disinformation
+thetrumpmedia.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170206085445/http://thetrumpmedia.com/,20170206,disinformation
+newsleak.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170223090506/http://newsleak.co/,20170223,disinformation
+conservativeflashnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170224020958/http://conservativeflashnews.com/,20170224,disinformation
+undergroundnewsreport.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170225040309/http://undergroundnewsreport.com:80/,20170225,disinformation
+usahitman.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170228011103/http://usahitman.com/,20170228,disinformation
+redrocktribune.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170228021824/http://redrocktribune.com/,20170228,disinformation
+flashnewscorner.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170303130634/http://flashnewscorner.com/,20170303,disinformation
+thewashingtonpress.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170324110556/http://thewashingtonpress.com/,20170324,disinformation
+theexaminer.site,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170325111055/https://theexaminer.site/,20170325,disinformation
+bluevisionpost.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170327224930/http://bluevisionpost.com:80/,20170327,disinformation
+myzonetoday.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170329153631/http://myzonetoday.com/,20170329,disinformation
+newsfeedhunter.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170331040638/http://newsfeedhunter.com/,20170331,disinformation
+breakingtop.world,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170410043738/http://breakingtop.world/,20170410,disinformation
+anews-24.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170411212701/http://anews-24.com/,20170411,disinformation
+freedomcrossroads.us,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170420100715/http://freedomcrossroads.us/,20170420,disinformation
+xbn-news.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170423034329/http://xbn-news.com/,20170423,disinformation
+supremepatriot.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170429202130/http://supremepatriot.com/,20170429,disinformation
+truetrumpers.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170521023758/http://truetrumpers.com/,20170521,disinformation
+usfanzone.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170602094123/http://usfanzone.com/,20170602,disinformation
+Amposts.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170606214114/http://trumpers.online:80/,20170606,disinformation
+metropolitanworlds.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170619055500/http://metropolitanworlds.com/,20170619,disinformation
+americanprides.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170625122730/http://americanprides.com/,20170625,disinformation
+nbc.com.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170626055546/http://nbc.com.co/,20170626,disinformation
+newsbreakshere.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170710023449/https://newsbreakshere.com/,20170710,disinformation
+snoopack.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170711040506/http://snoopack.com/,20170711,disinformation
+fedsalert.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170713164306/http://fedsalert.com/,20170713,disinformation
+theusa-news.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170727055007/http://theusa-news.com/,20170727,disinformation
+wazanews.tk,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170809143003/http://wazanews.tk:80/,20170809,disinformation
+newsbysquad.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170815141841/http://newsbysquad.com/,20170815,disinformation
+conservativeinfidel.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170827220348/http://www.conservativeinfidel.com/,20170827,disinformation
+houstonchronicle-tv.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170831125353/http://houstonchronicle-tv.com:80/,20170831,disinformation
+abcnews.com.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170912013501/http://abcnews.com.co/,20170912,disinformation
+federalistnation.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170913233734/http://federalistnation.com/,20170913,disinformation
+gummypost.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170918224201/http://gummypost.com/,20170918,disinformation
+rumorjournal.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170919042648/http://rumorjournal.com/,20170919,disinformation
+globalpoliticsnow.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170923170641/http://globalpoliticsnow.com/,20170923,disinformation
+usa-radio.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170926133027/http://usa-radio.com,20170926,disinformation
+uspostman.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170928100103/http://uspostman.com/,20170928,disinformation
+openmagazines.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170929052803/http://openmagazines.com,20170929,disinformation
+thetrumppers.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170929203505/http://thetrumppers.com:80/,20170929,disinformation
+local31news.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171011044130/http://local31news.com/,20171011,disinformation
+clear-politics.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20171020203907/http://clear-politics.com/,20171020,disinformation
+morning-herald.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20171022200635/http://morning-herald.com/,20171022,disinformation
+usapolitics24hrs.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171028040434/http://usapolitics24hrs.com/,20171028,disinformation
+thefreepatriot.org,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171031153256/https://thefreepatriot.org/,20171031,disinformation
+onlineconservativepress.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171114111353/http://onlineconservativepress.com/,20171114,disinformation
+goneleft.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171117030139/http://www.goneleft.com/,20171117,disinformation
+socialeverythings.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171123112926/http://socialeverythings.com/,20171123,disinformation
+thenet24h.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171127010747/https://thenet24h.com/,20171127,disinformation
+usinfonews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171129110335/http://usinfonews.com/,20171129,disinformation
+washingtonfeed.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20171201040452/http://washingtonfeed.com:80/,20171201,disinformation
+krbcnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171210104433/http://krbcnews.com/,20171210,disinformation
+usadailytime.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171224075829/http://usadailytime.com:80/,20171224,disinformation
+prntly.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171224130022/http://prntly.com/,20171224,disinformation
+thenewyorkevening.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171226234351/http://thenewyorkevening.com/,20171226,disinformation
+universepolitics.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171228214133/http://universepolitics.com/,20171228,disinformation
+usa-television.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20180105145004/http://usa-television.com/,20180105,disinformation
+federalisttribune.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20180107113846/http://federalisttribune.com/,20180107,disinformation
+ushealthyadvisor.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20180110102049/http://ushealthyadvisor.com/,20180110,disinformation
+flashnewscorner.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20180203052551/http://flashnewscorner.com/,20180203,disinformation
+usa-television.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20180224035203/http://usa-television.com/,20180224,disinformation
+dailyinsidernews.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20180224041045/http://www.dailyinsidernews.com/,20180224,disinformation
+usapoliticstoday.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20180316144058/https://www.usapoliticstoday.com/,20180316,disinformation
+gopthedailydose.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20180320041917/https://gopthedailydose.com/,20180320,disinformation
+usanewspolitics.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20180322010552/http://www.usanewspolitics.com:80/,20180322,disinformation
+usatwentyfour.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20180414234029/http://www.usatwentyfour.com/,20180414,disinformation
+mainerepublicemailalert.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20180815024537/https://mainerepublicemailalert.com/,20180815,disinformation
+religionmind.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20180817214147/http://www.religionmind.com/,20180817,disinformation
+ladylibertynews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20181008180506/http://ladylibertysnews.com/,20181008,disinformation
+uspoliticslive.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20181014171812/http://www.uspoliticslive.com/,20181014,disinformation
+365usnews.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+americanfans.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+conservativearmy88.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+guerillanews.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+ourlandofthefree.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+powerdaily.us,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+thepoliticaltribune.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+usa-conservative.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+wetheproudpatriots.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+world-politicus.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+alternativemediasyndicate.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+americanpoliticnews.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+americanpresident.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+blackinusrancenews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+bostonleader.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+buzzfeedusa.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+cannasos.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+cbsnews.com.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+cnnews3.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+dailynews10.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+dailynews5.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+ddemocraticunderground.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+departed.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+DIYhours.net,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+DonaldTrumpPotus45.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+embols.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+Empirehearland.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+enabon.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+floridasunpost.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+freedomdaily.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+freshdailyreport.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+KMT11.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+konkonsagh.biz,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+ky12news.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+lastdeplorables.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+maganews.co,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+majorthoughts.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+megynkelly.us,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+mentor2day.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+newsbbc.net,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+newsdaily12.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+newsmagazine.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+politicalupdator.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+politicsusanews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+rhotv.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+thebostontribune.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+thecontroversialfiles.net,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+thereporterz.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+times.com.mx,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+usanewstoday.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+usapoliticsnow.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+usapoliticszone.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+usasnich.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+usconservativetoday.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+ushealthylife.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+uspoln.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+uspoln.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+washingtonfed.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+webdaily.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+worldpoliticsus.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+nahadaily.com,Snopes,https://www.snopes.com/news/2016/01/14/fake-news-sites/,FALSE,Ben,None,None,disinformation
+statelyharold.com,Snopes,https://www.snopes.com/news/2016/01/14/fake-news-sites/,FALSE,Ben,None,None,disinformation
+ifyouonlynews.com,CBS,https://www.cbsnews.com/pictures/dont-get-fooled-by-these-fake-news-sites/,FALSE,Ben,None,None,disinformation
+channel23news.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+consnation.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20180204200313/http://www.consnation.com:80/,20180204,disinformation
+dailyfeed.news,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20180810030319/http://dailyfeed.news/,20180810,disinformation
+patriothangout.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170830225131/http://patriothangout.com/,20170730,disinformation
+stgeorgegazette.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20170729054336/https://stgeorgegazette.com/,20170729,disinformation
+teddystick.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,https://web.archive.org/web/20181103112852/http://teddystick.com/,20181103,disinformation
+therightists.com,FactCheck.org,https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/,FALSE,Ben,None,None,disinformation
+americannews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170512100428/http://americannews.com/,20170512,disinformation
+anews24.org,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+channel18news.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161028082325/http://www.channel18news.com/,20161028,disinformation
+denverguardian.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160816170807/http://denverguardian.com:80/,20160816,disinformation
+en-vovle.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+interestingdailynews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170528090250/http://www.interestingdailynews.com:80/,20170528,disinformation
+intrendtoday.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161122233653/http://intrendtoday.com:80/,20161122,disinformation
+learnprogress.org,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170201080403/http://learnprogress.org/,20170201,disinformation
+liberalplug.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170126150645/http://liberalplug.com/,20170126,disinformation
+libertyalliance.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161003030315/http://libertyalliance.com/,20161003,disinformation
+nationonenews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171031163739/https://nationonenews.com/,20171031,disinformation
+newswatch28.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160119130033/http://newswatch28.com/,20160119,disinformation
+president45donaldtrump.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20180703063759/http://president45donaldtrump.com/,20180703,disinformation
+proamericanews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20171014110526/http://proamericanews.com/,20171014,disinformation
+proudcons.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20160725131322/http://www.proudcons.com/,20160725,disinformation
+react365.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,None,None,disinformation
+redcountry.us,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170516081850/http://www.redcountry.us:80/,20170516,disinformation
+TDTalliance.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20181029090403/https://www.tdtalliance.com/,20181029,disinformation
+theinternetpost.net,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161201225229/https://theinternetpost.net/,20161201,disinformation
+tmzworldnews.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170207095448/http://tmzworldnews.com/,20170207,disinformation
+usafirstinformation.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170606005216/http://www.usafirstinformation.com:80/,20170606,disinformation
+viralactions.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20170416222523/http://viralactions.com/,20170416,disinformation
+wtoe5news.com,OpenSources,https://github.com/OpenSourcesGroup/opensources,FALSE,Ben,https://web.archive.org/web/20161008142515/https://wtoe5news.com/,20161008,disinformation
+abcnews-us.com,Snopes,https://www.snopes.com/news/2016/01/14/fake-news-sites/,FALSE,Ben,https://web.archive.org/web/20180315202708/http://abcnews-us.com:80/,20170315,disinformation
+associatedmediacoverage.com,Snopes,https://www.snopes.com/news/2016/01/14/fake-news-sites/,FALSE,Ben,https://web.archive.org/web/20160601165954/http://associatedmediacoverage.com/,20160601,disinformation
+12minutos.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+20minutenews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20180307163131/http://20minutenews.com/,20180307,disinformation
+247newsmedia.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161203211249/http://247newsmedia.com:80/,20161203,disinformation
+24aktuelles.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+24online.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170421114258/http://24online.news:80/,20170421,disinformation
+24usainfo.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160802075426/http://24usainfo.com/,20160802,disinformation
+24x365live.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170317004959/http://www.24x365live.com:80/,20170317,disinformation
+actualite.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+actualites.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+alabamaobserver.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170527142950/http://alabamaobserver.com:80/,20170527,disinformation
+albertatimes.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170717031737/http://www.albertatimes.com/,20170717,disinformation
+aldipest.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160721033918/http://aldipest.com/,20160721,disinformation
+alertchild.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161004072420/http://alertchild.com/,20161004,disinformation
+allenbwest.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160405205247/http://www.allenbwest.com/,20160405,disinformation
+allenwestrepublic.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160217012205/http://allenwestrepublic.com/,20160217,disinformation
+alynews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160331053829/http://www.alynews.com:80/,20160331,disinformation
+americafans.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161219044944/http://americafans.com/,20161219,disinformation
+americanflare.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160627124151/http://americanflare.com/,20160627,disinformation
+americanflavor.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170408091528/http://americanflavor.news:80/,20170408,disinformation
+americanpeoplenetwork.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170325080727/http://americanpeoplenetwork.com/,20170325,disinformation
+americantoday.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161205152959/http://americantoday.news:80/,20161205,disinformation
+americantoday.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170325080727/http://americanpeoplenetwork.com/,20170325,disinformation
+americasnewest.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160730182514/http://www.americasnewest.com:80/,20160730,disinformation
+a-news24.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+antinews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+areyouasleep.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+areyousleep.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+armyusanews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20171012072503/https://www.armyusanews.com/,20171012,disinformation
+asamericanasapplepie.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+badcriminals.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170516102114/http://badcriminals.com/,20170516,disinformation
+baldwinpost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160902095900/http://baldwinpost.com/,20160902,disinformation
+baltimoregazette.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161012070949/http://baltimoregazette.com/,20161012,disinformation
+battypost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160513124048/http://www.battypost.com:80/,20160513,disinformation
+belgique.actualites.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20150318011048/http://belgique.actualites.co/,20150318,disinformation
+benjaminfulford.typepad.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160730050530/https://www.benjaminfulford.typepad.com/,20160730,disinformation
+bestthings.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170512192301/http://bestthings.us:80/,20170512,disinformation
+bients.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+bigbluevision.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160803111137/http://bigbluevision.org:80/,20160803,disinformation
+bignuggetnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161204121356/http://bignuggetnews.com/,20161204,disinformation
+bizstandardnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160427145008/http://bizstandardnews.com/,20160427,disinformation
+blackinsurancenews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161015022027/http://www.blackinsurancenews.com/,20161015,disinformation
+blog.veterantv.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170412190503/http://blog.veterantv.net/,20170412,disinformation
+bluelinestrong.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170516035647/http://bluelinestrong.net:80/,20170516,disinformation
+bluevision.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170301054010/http://bluevision.news:80/,20170301,disinformation
+borderherald.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161224235105/http://borderherald.com/,20161224,disinformation
+bostontribune.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+breakingnews247.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+breakingnews365.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+breakingnewsblast.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160301081629/http://breakingnewsblast.com/,20160301,disinformation
+butthatsnoneofmybusiness.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160229113615/http://butthatsnoneofmybusiness.com/,20160229,disinformation
+cartelpress.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160422221248/http://www.cartelpress.com:80/,20160422,disinformation
+cartelreport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170521063409/http://cartelreport.com/,20170521,disinformation
+celebtricity.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160805142348/http://celebtricity.com/,20160805,disinformation
+channel16news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161013142944/http://channel16news.com:80/,20161013,disinformation
+channel17news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161031232124/http://www.channel17news.com:80/,20161031,disinformation
+channel22news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel24news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel28news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel33news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel34news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel40news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20150801120154/http://channel40news.com/,20150801,disinformation
+channel45news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel46news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20150801094736/http://channel46news.com/,20150801,disinformation
+channel5000.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161002101407/http://channel5000.com/,20161002,disinformation
+channel55news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel56news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel59news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel60news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel62news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel63news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160307142010/http://channel63news.com/,20160307,disinformation
+channel65news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160306123655/http://channel65news.com/,20160306,disinformation
+channel66news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160112082406/http://channel66news.com/,20160112,disinformation
+channel68news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+channel77news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+chicksontheright.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161013005707/http://www.chicksontheright.com/,20161013,disinformation
+choiceandtruth.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160810210726/http://www.choiceandtruth.com:80/,20160810,disinformation
+christiantimesnewspaper.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+christiantoday.info,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160731233121/http://www.christiantoday.info:80/,20160731,disinformation
+chuckcallesto.blogspot.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+city-herald.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170821021945/http://city-herald.com:80/,20170821,disinformation
+clancyreport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160326080252/http://clancyreport.com/,20160326,disinformation
+cnewsgo.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170630210937/http://cnewsgo.com/,20170630,disinformation
+cnn.com.de,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160916113742/http://cnn.com.de:80/,20160916,disinformation
+cnn-business-news.ga,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20171111184730/http://cnn-business-news.ga:80/,20171111,disinformation
+cnn-globalnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170616070324/http://www.cnn-globalnews.com:80/,20170616,disinformation
+cnn-internationaledition.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+cnoticias.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+coffeebreakforyou.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170425225908/http://www.coffeebreakforyou.com:80/,20170425,disinformation
+consciouslyenlightened.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160205225540/http://consciouslyenlightened.com:80/,20160205,disinformation
+conservative101.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160606073922/http://conservative101.com:80/,20160606,disinformation
+conservative7.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20171204050339/http://conservative7.com/,20171204,disinformation
+conservativeinfocorner.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+conservativeinsider.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20180112054106/http://conservativeinsider.co,20180112,disinformation
+conservativepaper.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20171211053653/http://www.conservativepaper.com:80/,20171211,disinformation
+conservativepoliticus.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170530052212/http://www.conservativepoliticus.com:80/,20170530,disinformation
+conservativespirit.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20180807070103/http://conservativespirit.com/,20180807,disinformation
+conservativestudio.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161015043905/http://conservativestudio.com:80/,20161015,disinformation
+conservativetribune.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160808171221/http://conservativetribune.com:80/,20160808,disinformation
+conservativeview.info,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170531172528/http://conservativeview.info:80/,20170531,disinformation
+consinfo.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+cooltobeconservative.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170603210254/http://cooltobeconservative.com/,20170603,disinformation
+countyweekly.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170822093726/http://www.countyweekly.com:80/,20170822,disinformation
+dailycurrant.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+dailyfinesser.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170320221235/https://www.dailyfinesser.com/,20170320,disinformation
+dailynews11.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+dailynews3.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+dailynews33.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+dailynewsbin.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170508043808/http://www.dailynewsbin.com/,20170508,disinformation
+dailysidnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170523112316/http://dailysidnews.com:80/,20170523,disinformation
+dailystormer.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160815231716/http://www.dailystormer.com:80/,20160815,disinformation
+dailythings.world,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+dailyworldupdate.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+dallastimes.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161230232806/http://www.dallastimes.us:80/,20161230,disinformation
+defenseusa.club,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20171103011503/http://defenseusa.club/,20171103,disinformation
+defund.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160216070850/http://defund.com/,20160216,disinformation
+denverinquirer.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161105045609/http://denverinquirer.com/,20161105,disinformation
+departedme.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20171029051857/http://departedme.com/,20171029,disinformation
+dineal.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161206051624/http://dineal.com:80/,20161206,disinformation
+drugsofficial.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161002193319/http://drugsofficial.com/,20161002,disinformation
+dublintribune.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+empiresports.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+en.mediamass.net,Allcott et al.,https://siepr.stanFord.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170128190730/http://en.mediamass.net/,20170128,disinformation
+endingthefed.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160510200244/http://endingthefed.com:80/,20160510,disinformation
+everydaybreakingnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160205090306/http://everydaybreakingnews.com/,20160205,disinformation
+everynewshere.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160610164304/http://www.everynewshere.com:80/,20160610,disinformation
+factrider.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+fanzinger.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+flashinfo.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+focusnews.info,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170213154440/http://focusnews.info:80/,20170213,disinformation
+folksvideo.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170912034304/http://folksvideo.com/,20170912,disinformation
+forfreedomworld.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20180203093655/http://forfreedomworld.com/,20180203,disinformation
+fox-news24.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170621063423/http://fox-news24.com:80/,20170621,disinformation
+france.actualites.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+freddymag.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+freedomjunkshun.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+freedomsfinalstand.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170128061355/http://freedomsfinalstand.com:80/,20170112,disinformation
+freeinquirer.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170903134921/http://www.freeinquirer.com:80/,20170903,disinformation
+freewoodpost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160215232552/http://www.freewoodpost.com/,20160215,disinformation
+fury.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,TRUE,Ben,None,None,disinformation
+getoffthebs.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160805120920/http://getoffthebs.com:80/,20160805,disinformation
+globalassociatednews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+globalrevolutionnetwork.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161015131139/http://www.globalrevolutionnetwork.com:80/,20161015,disinformation
+gotnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160929085921/http://gotnews.com:80/,20160929,disinformation
+greenvillegazette.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20181106143656/http://www.greenvillegazette.com/,20181106,disinformation
+guerilla.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170701024911/http://www.guerilla.news/,20170701,disinformation
+halturnershow.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+headlinebrief.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160306004756/http://www.headlinebrief.com:80/,20160306,disinformation
+heatst.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161006064717/http://heatst.com/,20161006,disinformation
+heaviermetal.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20160414035114/http://heaviermetal.net:80/,20160414,disinformation
+heightpost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20170827055201/http://www.heightpost.com:80/,20170827,disinformation
+hotglobalnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,https://web.archive.org/web/20161015134056/http://www.hotglobalnews.com:80/,20161015,disinformation
+houstonleader.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,http://web.archive.org/web/20170210113128/http://houstonleader.com:80/,20170210,disinformation
+ideaspots.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+ihavethetruth.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+ilovenativeamericans.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,http://web.archive.org/web/20170331122837/http://ilovenativeamericans.us:80/,20170331,disinformation
+impulsetoday.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,http://web.archive.org/web/20171015095852/http://www.impulsetoday.com/,20171015,disinformation
+isthatlegit.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+jacksontelegraph.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,http://web.archive.org/web/20170701234400/http://jacksontelegraph.com/,20170701,disinformation
+jokerviral.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+jookos.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,http://web.archive.org/web/20170212094330/http://www.jookos.com/,20170212,disinformation
+journaldemourreal.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,None,None,disinformation
+kata33.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,http://web.archive.org/web/20161031015829/http://kata33.com:80/,20161031,disinformation
+kbc14.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Ben,http://web.archive.org/web/20170625224226/http://kbc14.com/,20170625,disinformation
+kcst7.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+kf13.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+klponews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+km8news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+knp7.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+krb7.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+kspm33.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+kty24news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+kupr7.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+ky6news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+kypo6.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+ladiesofliberty.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20180112164106/http://ladiesofliberty.net/,20180112,disinformation
+ladylibertysnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+landrypost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+liberty-courier.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20170426004419/http://libertycourier.com/,20170426,disinformation
+libertywritersnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20170218034548/https://libertywritersnews.com/,20170218,disinformation
+localnews33.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+lopezreport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+macedoniaonline.eu,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20180426063902/http://www.macedoniaonline.eu/,20180426,disinformation
+maywoodpost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+mbynews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+mckenziepost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+mediamaxzone.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20170620232115/http://www.mediamaxzone.com:80/,20170620,disinformation
+mediazone.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20161203201826/http://mediazone.news:80/,20161203,disinformation
+mississippiherald.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20170908230319/http://www.mississippiherald.com/,20170908,disinformation
+morningnewsusa.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+mrnewswatch.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20180319040703/http://mrnewswatch.com/,20180319,disinformation
+msfanpage.link,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20180215101542/http://www.msfanpage.link:80/,20180215,disinformation
+nachrichten.de.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+nachrichten365.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+nationalinsiderpolitics.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20171203044754/http://www.nationalinsiderpolitics.com:80/,20171203,disinformation
+nationalreport.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20170810013455/http://nationalreport.net/,20170810,disinformation
+nativeamericans.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+nativestuff.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20171225153818/http://nativestuff.us:80/,20171225,disinformation
+ncscooper.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+net-infosnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+nevo.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20170907015244/http://nevo.news:80/,20170907,disinformation
+newcenturytimes.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+newjournal.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+news14kgpn.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+news14now.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+newsbreakhere.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+newsbreakingspipe.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20180819124905/https://newsbreakingspipe.com/,20180819,disinformation
+newsbuzzdaily.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+newsconservative.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20170815124425/http://newsconservative.com:80/,20170815,disinformation
+newsdaily10.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+newsdaily27.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+newsfeedobserver.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20180321122132/http://newsfeedobserver.com/,20180321,disinformation
+newsformetoday.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+newshubs.info,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,https://web.archive.org/web/20170603031248/http://newshubs.info:80/,20170603,disinformation
+newsnow17.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+newsoftrump.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,http://web.archive.org/web/20171011085923/http://newsoftrump.com:80/,20171011,disinformation
+newsphd.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+newspunch.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,http://web.archive.org/web/20180119164023/http://newspunch.com/,20180119,disinformation
+newsuptoday.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+nnettle.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,http://web.archive.org/web/20171126021726/http://www.nnettle.com/,20171126,disinformation
+notallowedto.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,http://web.archive.org/web/20180228113913/https://notallowedto.com/,20180228,disinformation
+noticias365.info,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+noticias-frescas.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+notizzia.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+nunadisbereel.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+nydailynews-tv.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+nymeta.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,None,None,disinformation
+observatorial.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,http://web.archive.org/web/20171030233328/http://www.observatorial.com:80/,20171030,disinformation
+observeronline.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Jordan,http://web.archive.org/web/20171217070027/http://observeronline.news:80/,20171217,disinformation
+oreillypost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+gellerreport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180913044128/https://gellerreport.com/,20180913,disinformation
+paris.actualites.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+patriotcrier.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180713185105/http://patriotcrier.com/,20180713,disinformation
+patriotusa.website,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170813083557/http://patriotusa.website:80/,20170813,disinformation
+persecutes.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170813212555/http://persecutes.com/,20170813,disinformation
+politicalmayhem.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180127003455/https://politicalmayhem.news/,20180127,disinformation
+politicot.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180111124302/http://politicot.com/,20180111,disinformation
+politicspaper.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170722115843/http://politicspaper.com:80/,20170722,disinformation
+positivedaily.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170911163429/http://positivedaily.com/,20170911,disinformation
+potatriotpost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180314005825/http://potatriotpost.com/,20180314,disinformation
+pressunion.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170903165338/http://www.pressunion.org:80/,20170903,disinformation
+proudleader.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180215143546/http://proudleader.com:80/,20180215,disinformation
+qpolitical.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180614134330/http://qpolitical.com/,20180614,disinformation
+qualitysharing.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180224032303/http://qualitysharing.com/,20180224,disinformation
+readconservatives.news,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171106103945/http://readconservatives.news:80/,20171106,disinformation
+reaganwasright.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180315135812/http://reaganwasright.com/,20180315,disinformation
+redflagnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161213135135/http://www.redflagnews.com/,20161213,disinformation
+redinfo.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180903002300/http://www.redinfo.us/,20180903,disinformation
+redpolitics.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171102050153/http://www.redpolitics.us:80/,20171102,disinformation
+reflectionofmind.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+regated.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161205214550/http://regated.com/,20161205,disinformation
+religionlo.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+religiousmind.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161114002705/http://www.religiousmind.com:80/,20161114,disinformation
+revolutions2040.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171031192523/http://www.revolutions2040.com:80/,20171031,disinformation
+rightsidenews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+satiratribune.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170324170728/http://www.satiratribune.com/,20170324,disinformation
+scaryhours.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+scrapetv.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161126015044/http://www.scrapetv.com:80/,20161126,disinformation
+shariaunveiled.wordpress.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180831100351/https://shariaunveiled.wordpress.com/,20180831,disinformation
+smhwtfnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180331014322/http://smhwtfnews.com/,20180331,disinformation
+sourceplanet.net,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+southernconservativeextra.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+spinzon.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170807185340/http://spinzon.com:80/,20170807,disinformation
+statenation.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+states-tv.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170610144904/http://states-tv.com:80/,20170610,disinformation
+straightstoned.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171205054822/http://straightstoned.com:80/,20171205,disinformation
+sundayinquirer.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170925180312/http://sundayinquirer.com:80/,20170925,disinformation
+sundaypost.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170830161309/http://sundaypost.org:80/,20170830,disinformation
+superstation95.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170202190926/https://www.superstation95.com/,20170202,disinformation
+surreytelegraph.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170916013411/http://www.surreytelegraph.com:80/,20170916,disinformation
+sydneybulletin.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170731075052/http://www.sydneybulletin.com/,20170731,disinformation
+tdnewswire.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170301031441/https://tdnewswire.com/,20170301,disinformation
+telegraphsun.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170810155405/http://www.telegraphsun.com:80/,20170810,disinformation
+teoinfo.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170516054057/http://teoinfo.com/,20170516,disinformation
+theavocadonews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+thebreakingnews.co,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+thefrt.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170919095950/http://thefrt.com/,20170919,disinformation
+the-global-news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180110081803/https://the-global-news.com/,20180110,disinformation
+theinternationalreporter.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180331135239/https://theinternationalreporter.org/,20180331,disinformation
+thelastlineofdefense.online,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180310152110/http://thelastlineofdefense.online:80/,20180310,disinformation
+themiamigazette.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170420010903/http://themiamigazette.com:80/,20170420,disinformation
+thenationalsun.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161202205057/http://thenationalsun.com/,20161202,disinformation
+thenewsclub.info,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161211035743/http://thenewsclub.info:80/,20161211,disinformation
+thenewsnerd.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161112131746/http://www.thenewsnerd.com/,20161112,disinformation
+thenochill.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180824132350/https://thenochill.com/,20180824,disinformation
+thepremiumnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170830014334/http://thepremiumnews.com:80/,20170830,disinformation
+therealshtick.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+therealstrategy.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170803214503/https://therealstrategy.com/,20170803,disinformation
+theseattletribune.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+thesmokersclub.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+thesolexchange.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+theusaconservative.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171010101101/http://theusaconservative.com:80/,20171010,disinformation
+thevalleyreport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20181226011347/https://thevalleyreport.com/,20181226,disinformation
+theworldupdate.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+thirdestatenewsgroup.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180224033429/http://thirdestatenewsgroup.com/,20180224,disinformation
+timesofcambodia.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+tmzbreaking.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180329192323/http://tmzbreaking.com/,20180329,disinformation
+tmzbusiness.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180103153602/http://tmzbusiness.com/,20180103,disinformation
+tmzcomedy.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180224033005/http://tmzcomedy.com/,20180224,disinformation
+tmzhiphop.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+tmzuncut.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161003125239/http://tmzuncut.com/,20161003,disinformation
+tmzurban.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+tmzworldstar.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180322071400/http://tmzworldstar.com/,20180322,disinformation
+tmzworldstarnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+topinfopost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180815063624/http://www.topinfopost.com/,20180815,disinformation
+toprightnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180825225642/http://toprightnews.com/,20180825,disinformation
+truthfeed.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+truthkings.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180827075450/https://truthkings.com/,20180827,disinformation
+unitednews.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+urbanimagemagazine.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+urdoca.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+usa360-tv.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171216191452/http://usa360-tv.com:80/,20171216,disinformation
+usaconservativereport.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180307023450/http://usaconservativereport.com/,20180307,disinformation
+usadailythings24.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+usanews4u.us,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171221170436/http://usanews4u.us:80/,20171221,disinformation
+usanewshome.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171231125624/http://usanewshome.com:80/,20171231,disinformation
+usatodaypolitics.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161106115149/http://www.usatodaypolitics.com:80/,20161106,disinformation
+usaworldbox.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170531214830/http://www.usaworldbox.com:80/,20170531,disinformation
+usherald.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171231183854/http://usherald.com/,20171231,disinformation
+uspoliticsinfo.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170929092703/https://uspoliticsinfo.com/,20170929,disinformation
+ustruthwire.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180819125016/https://www.ustruthwire.com/,20180819,disinformation
+usuncut.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170301195607/http://usuncut.com/,20170301,disinformation
+vancouverinquirer.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+vesselnews.io,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+veteransfordonaldtrump.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+viralcocaine.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180224030913/http://viralcocaine.com/,20180224,disinformation
+viraldevil.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180502021151/http://viraldevil.com/,20180502,disinformation
+viralmugshot.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171004104956/http://viralmugshot.com/,20171004,disinformation
+viralpropaganda.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180324125508/http://viralpropaganda.com/,20180324,disinformation
+viralspeech.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180323082311/http://viralspeech.com/,20180323,disinformation
+viralstupid.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+viralstuppid.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+washingtonevening.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180426201308/http://washingtonevening.com:80/,20180426,disinformation
+wcpm3.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161014070745/http://www.wcpm3.com:80/,20161014,disinformation
+weconservative.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180224033306/http://weconservative.com/,20180224,disinformation
+weekendherald.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+weekendpoliticalnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180131013539/http://weekendpoliticalnews.com:80/,20180131,disinformation
+welovenative.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+werk35.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+westernsentinel.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171024182028/http://www.westernsentinel.com:80/,20171024,disinformation
+westfieldpost.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170820110251/http://www.westfieldpost.com:80/,20170820,disinformation
+wftj8news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+whatdoesitmean.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180831064210/http://whatdoesitmean.com/,20180831,disinformation
+witscience.org,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+wleb21.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+wm21news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+wmacnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20161029043811/http://www.wmacnews.com:80/,20161029,disinformation
+wmb36.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+world.politics.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+worldinformation24.info,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20170709192352/http://worldinformation24.info:80/,20170709,disinformation
+worldnewscircle.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180109214950/http://worldnewscircle.com/,20180109,disinformation
+worldnewspolitics.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171116163607/https://www.worldnewspolitics.com/,20171116,disinformation
+worldpoliticus.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180224064507/https://worldpoliticus.com/,20180224,disinformation
+wrejnews.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+wrpm33.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+wrpt16.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20160718222031/http://www.wrpt16.com:80/,20160718,disinformation
+wy21news.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,None,None,disinformation
+youngcons.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20180404171237/http://www.youngcons.com/,20180404,disinformation
+zootfeed.com,Allcott et al.,https://siepr.stanford.edu/system/files/publications/18-029.pdf,FALSE,Austin,https://web.archive.org/web/20171212000933/https://www.zootfeed.com/,20171212,disinformation
