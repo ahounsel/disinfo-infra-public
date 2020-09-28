@@ -1,6 +1,6 @@
-# disinfo-infra
+# Identifying Disinformation Websites Using Infrastructure Features
 
-Classifying Disinformation with network infrastructure features
+Source code and training data for the academic paper available [here.](https://www.usenix.org/conference/foci20/presentation/hounsel)
 
 ## Structure
 
