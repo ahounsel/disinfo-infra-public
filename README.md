@@ -10,6 +10,8 @@ Source code and training data for the academic paper available [here.](https://w
 
 * analysis - All code to analyze classification performance 
 
+* disinfo_train.tar.gz - Compressed .sql file representing our database for training data
+
 
 ## Installation
 
